@@ -1,0 +1,16 @@
+checkers/server/AccountStore.class
+checkers/server/CheckersServerApp$1.class
+checkers/common/Move.class
+checkers/server/CheckersServer.class
+checkers/server/CheckersServerApp$RoundedBorder.class
+checkers/server/CheckersServerApp.class
+checkers/server/CheckersServer$GameSession.class
+checkers/common/PieceColor.class
+checkers/server/ClientHandler.class
+checkers/common/UserStats.class
+checkers/server/CheckersServerApp$CompoundRoundedBorder.class
+checkers/common/CheckersGame.class
+checkers/server/CheckersServerApp$ThemePanel.class
+checkers/server/CheckersServerApp$Theme.class
+checkers/server/CheckersServerApp$2.class
+checkers/common/Message.class
