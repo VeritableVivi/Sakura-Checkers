@@ -1,0 +1,7 @@
+src/main/java/checkers/client/ClientConnection.java
+src/main/java/checkers/client/CheckersClientApp.java
+src/main/java/checkers/common/PieceColor.java
+src/main/java/checkers/common/Move.java
+src/main/java/checkers/common/UserStats.java
+src/main/java/checkers/common/Message.java
+src/main/java/checkers/common/CheckersGame.java
